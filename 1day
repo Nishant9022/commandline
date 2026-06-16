@@ -28,3 +28,22 @@
 
         to copy by 1 path Then 2 and 3
 
+
+7) git add nishant :- To add file or only 1 file in github
+
+8) git commit -m "satuens moons" :- To push to file or add comment
+
+9) git push origin main :- The push file to github account
+
+10) git branch -c branchname :- TO Create New branch.
+
+11) git branch -a :- Shown all branch name create new
+
+12) git branch :- show the mi action branch
+
+13) git checkout main :- To in Switch branch or change branch
+
+14) git rm filename :- To removed file or dir
+
+15) git mv oldname newnew :- to rename file or dir
+   
