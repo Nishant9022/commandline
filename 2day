@@ -1,0 +1,11 @@
+			*Command*
+
+1) git pull :- the push data update
+
+2) git switch :- the switch branch in 2 branch
+
+3) git pull --all origin :- the all push data update or branches in github
+
+4) git clone (htttp or ssh paste link) :- to connect by Https ans private connect
+
+ 
